@@ -1,5 +1,6 @@
 Screen Saver by Zhao Y. Li
-Student ID: 20473475
+
+An animated screensaver that runs when the mouse is not on the screen. Each node(heart,start,diamond) can be edited when the mouse is placed over the object. The size, color, shade, speed, and more can be changed. Please see below for instructions. Implemented using Java.
 
 "make all" to compile/run.
 
